@@ -1,0 +1,15 @@
+video >>>>>>>>>>>>>>
+https://www.youtube.com/watch?v=jK7mcMrYzj8&t=0s
+30:02
+
+npm init -y 
+npm i --save express mongoose nodemon 
+npm install dotenv --save
+
+mongoose >>>>>>>>>>>>>>>>>>>>>>>>
+https://mongoosejs.com/docs/
+npm install mongoose --save
+npm install dotenv
+
+mongsoe say connection ka method dekhy gay 
+ar is say scehma dekhy gay
